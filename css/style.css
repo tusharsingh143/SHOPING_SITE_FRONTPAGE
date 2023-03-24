@@ -1,0 +1,129 @@
+.logoo{
+	text-align: center;
+	font-family: Rockwell;
+	font-size: 30px;
+}
+span{
+	color: black;
+	font-size: 17px;
+}
+.box{
+	border: 2px solid black;
+	border-radius: 15px;
+	height: 300px;
+}
+.imagebox{
+	height: 75%;
+	border-bottom: 2px solid black;
+	overflow: hidden;
+}
+/*.footer{
+	text-align: center;
+	font-size: 14px;
+}*/
+.imagebox img{
+	width: 90%;
+	height: 90%;
+	margin: auto;
+}
+/*.footer:hover{
+	color: blue ;
+	font-size: 15px;
+	transition: 0.5s;
+}*/
+.logoo1{
+	text-align: center;
+	font-family: Rockwell;
+	color: gyay;
+	font-size: 100px;
+	background: lightgrey;
+
+}
+.logoo1:hover{
+	color: rgb(0, 51, 0);
+	transition: 1s;
+	font-size: 110px;
+}
+.imagebox img:hover{
+	transition: 1s;
+	width: 100%;
+	height: 100%;
+}
+.box4{
+	background: black;
+}
+.footer0{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+.footer0:hover{
+	color: rgb(230, 184, 0);
+	transition: 1s;
+}
+.footer1{
+	font-size: 25px;
+	text-align: center;
+	font-size: 20px;
+	color: whitesmoke;
+}
+.footer1:hover{
+	transition: 1s;
+	color: rgb(230, 184, 0);
+}
+.socialmedia{
+	color: whitesmoke;
+}
+.socialmedia:hover{
+	color: darkred;
+	transition: 1s;
+}
+.socialmediaout{
+	text-align: center;
+	font-size: 30px;
+	color: whitesmoke;
+}
+.outbox{
+	width: 100%;
+}
+.inbox{
+	float: left;
+	width: 23%;
+	margin: 1%;
+	color: white;
+}
+.clear{
+	clear: both;
+}
+.inbox table{
+	margin-left: 35%;
+}
+td{
+	text-align: center;
+}
+.head{
+	font-size: 15px;
+	color: lightgrey;
+}
+.head:hover{
+	color: darkred;
+}
+.meta{
+	font-size: 12px;
+	color: lightgrey;
+}
+.meta:hover{
+	color: rgb(230, 184, 0);
+}
+.lastfooter{
+	text-align: center;
+	font-size: 19px;
+	color: ghostwhite;
+}
+.page{
+	margin: auto;
+}
+
+
+
+
